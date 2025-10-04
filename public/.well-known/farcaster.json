@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "PETE Tracker",
+    "subtitle": "Built with Zara",
+    "description": "PETE Tracker is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://2d420e60d4c9471cbc12c11370df2c38-dbe2.vercel.app",
+    "splashImageUrl": "https://2d420e60d4c9471cbc12c11370df2c38-dbe2.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://2d420e60d4c9471cbc12c11370df2c38-dbe2.vercel.app/image.png",
+    "tagline": "PETE Tracker",
+    "screenshotUrls": [
+      "https://2d420e60d4c9471cbc12c11370df2c38-dbe2.vercel.app/screenshot.png",
+      "https://2d420e60d4c9471cbc12c11370df2c38-dbe2.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://2d420e60d4c9471cbc12c11370df2c38-dbe2.vercel.app/api/webhook"
+  }
+}
